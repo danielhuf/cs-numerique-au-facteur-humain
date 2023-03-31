@@ -1,0 +1,48 @@
+{
+  "name": "st7-project-interface",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@cleandersonlobo/react-mic": "^1.2.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "chart.js": "^4.2.1",
+    "daisyui": "^2.51.4",
+    "react": "^16.14.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^16.14.0",
+    "react-ffmpeg": "^0.0.35",
+    "react-icons": "^4.8.0",
+    "react-mic-record": "^1.0.6",
+    "react-router-dom": "^6.9.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4",
+    "webm-to-wav-converter": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
