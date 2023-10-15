@@ -16,7 +16,9 @@ This Python program counts unique words from an English text file, treating hyph
 Run the Python program using the following command:
 ```bash
 python3 word_counter.py
+```
 
 The input and output text files set by default are ```Tempest.txt``` and ```output.txt```, but you can additionaly change the files using the following command:
 ```bash
 python3 word_counter.py --input <path_to_input_file> --output <path_to_output_file>
+```
